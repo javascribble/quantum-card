@@ -1,3 +1,9 @@
 import { template } from '../../references/quantum.js';
 
-export const card = template('', '');
+const html = `
+`;
+
+const css = `
+`;
+
+export const card = template(html, css);
