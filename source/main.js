@@ -1,3 +1,3 @@
 import * as card from './elements/card.js';
 
-Object.assign(window, card);
+Object.assign(quantum, card);
