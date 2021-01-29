@@ -1,3 +1,3 @@
-import * as card from './elements/card.js';
+import { Card } from './elements/card.js';
 
-Object.assign(quantum, card);
+Quantum.Card = Card;
